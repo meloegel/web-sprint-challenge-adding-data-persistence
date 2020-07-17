@@ -48,11 +48,19 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Explain the difference between `Relational Databases` and `SQL`.
 
+A relational database is a collection of information that organizes data points with defined relationships for easy access. In the relational database model, the data structures -- including data tables, indexes and views -- remain separate from the physical storage, allowing administrators to edit the physical data storage without affecting the logical data structure And SQL is the stand user interface of relational databases
+
 2. Why do tables need a `primary key`?
+
+To ensure uniqueness of the table
 
 3. What is the name given to a table column that references the primary key on another table.
 
+foreign key is a column or group of columns in a relational database table that provides a link between data in two tables
+
 4. What do we need in order to have a _many to many_ relationship between two tables.
+
+A third table
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
